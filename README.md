@@ -2,9 +2,9 @@
 ## About me
 My Name is Thomas Müller and I'm a WebDev Student [@neuefische](https://www.neuefische.de/).
 
-Please checkout my latest app:
+**Please checkout my latest app:**
 
-[Blubb - the app for DiveLogs]https://github.com/thomasmueller87/capstone-project
+[Blubb - the app for DiveLogs](https://github.com/thomasmueller87/capstone-project)
 
 
 
