@@ -9,7 +9,7 @@ Meet me at [LinkedIn](https://www.linkedin.com/in/thomas-m%C3%BCller-6655b6220/)
 
 
 
-![Meme](./programming-or-googling.jpg)
+
 
 <!--
 **thomasmueller87/thomasmueller87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
