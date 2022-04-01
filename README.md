@@ -1,6 +1,6 @@
 # Welcome to my GitProfile
 ## About me
-My Name is Thomas Müller and I'm a WebDev Student [@neuefische](https://www.neuefische.de/).
+My Name is Thomas Müller.
 
 **Please checkout my latest app:**
 
